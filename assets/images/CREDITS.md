@@ -7,7 +7,7 @@ https://commons.wikimedia.org/wiki/File:Fawn_and_white_Welsh_Corgi_puppy_standin
 
 License: CC0 1.0 Universal (public domain dedication). Cropped and resized to 960 x 1320 for this tutorial.
 
-## emoji1.png to emoji6.png
+## emoji1.png to emoji8.png
 
 Microsoft Fluent Emoji, 3D style, from https://github.com/microsoft/fluentui-emoji:
 
@@ -17,6 +17,8 @@ Microsoft Fluent Emoji, 3D style, from https://github.com/microsoft/fluentui-emo
 - emoji4.png: Bubble tea
 - emoji5.png: Pink heart
 - emoji6.png: Frog
+- emoji7.png: Fire
+- emoji8.png: Smiling face with sunglasses
 
 License:
 
